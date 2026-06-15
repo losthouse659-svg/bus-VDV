@@ -1,0 +1,15 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+}
+h1 { color: #00ffcc; }
+li { padding: 8px 0; border-bottom: 1px solid #333; list-style: none; }
