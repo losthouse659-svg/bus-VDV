@@ -1,26 +1,11 @@
 {
   "name": "vdv-bus-api",
-  "version": "1.0.0",
-  "description": "API pro komunikaci s autobusy dle VDV standardu",
-  "main": "dist/server.js",
+  "type": "module",
   "scripts": {
-    "start": "node dist/server.js",
-    "dev": "ts-node server.ts",
-    "build": "tsc"
+    "dev": "node server.js"
   },
   "dependencies": {
     "fastify": "^4.26.0",
-    "zod": "^3.22.0",
-    "@prisma/client": "^5.10.0",
-    "dotenv": "^16.4.0"
-  },
-  "devDependencies": {
-    "@types/node": "^20.11.0",
-    "ts-node": "^10.9.0",
-    "typescript": "^5.3.0",
-    "prisma": "^5.10.0"
-  },
-  "engines": {
-    "node": "20.x"
+    "zod": "^3.22.0"
   }
 }
