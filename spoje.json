@@ -1,0 +1,5 @@
+[
+  { "vehicleId": "Linka 401", "status": "Na cestě – Včas", "lat": 49.1951, "lng": 16.6068 },
+  { "vehicleId": "Linka 402", "status": "Zpoždění 4 minuty", "lat": 49.1600, "lng": 16.5500 },
+  { "vehicleId": "Linka 701", "status": "Zastávka", "lat": 49.2200, "lng": 16.6400 }
+]
